@@ -8,7 +8,6 @@ let score str i =
         |> Seq.sum
     sum * i
 
-
 let names = 
     System.IO.File.ReadLines (__SOURCE_DIRECTORY__ + "/22/names.txt")
     |> Seq.map (fun l -> l.Split ',')

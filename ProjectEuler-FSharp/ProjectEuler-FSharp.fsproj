@@ -49,12 +49,17 @@
     <None Include="Problem2.fsx" />
     <None Include="Problem3.fsx" />
     <None Include="Problem4.fsx" />
+    <None Include="Problem5.fsx" />
     <None Include="Problem6.fsx" />
     <None Include="Problem7.fsx" />
+    <None Include="Problem8.fsx" />
     <None Include="Problem10.fsx" />
+    <None Include="Problem12.fsx" />
     <None Include="Problem13.fsx" />
     <None Include="Problem15.fsx" />
+    <None Include="Problem20.fsx" />
     <None Include="Problem22.fsx" />
+    <None Include="Problem25.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
